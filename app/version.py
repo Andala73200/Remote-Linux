@@ -1,0 +1,2 @@
+APP_VERSION = "1.49.0"
+APP_TITLE = f"Remote Linux — V{APP_VERSION}"
